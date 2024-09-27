@@ -42,7 +42,7 @@ pip install numpy matplotlib scikit-learn
 1. Clone this repository:
    ```bash
    git clone https://github.com/ahmdmohamedd/PCA-dimensionality-reduction.git
-   cd pca-iris-dataset
+   cd PCA-dimensionality-reduction
    ```
 
 2. Run the Jupyter Notebook or Python script:
